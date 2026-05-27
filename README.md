@@ -1,4 +1,4 @@
-# Hi, I'm Karan G 👋
+# Hi, I'm Karan Ganesan 👋
 
 **Java Full Stack Developer** | Spring Boot · React.js · MySQL
 
