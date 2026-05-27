@@ -50,5 +50,5 @@ Docker · Git · CI/CD · Postman · Vercel · Render · Railway
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karan_G-blue)](https://linkedin.com/in/karan-g-8010a0284)
-[![Portfolio](https://img.shields.io/badge/Portfolio-karan--portfolio.com-green)](https://karan-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Karan--Portfolio-green)](https://portfolio-karan0313s-projects.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-karan0313-black)](https://github.com/karan0313)
